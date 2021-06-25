@@ -1,0 +1,54 @@
+.heading{
+    height:100px;
+    color:white;
+    font-Size:2cm;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 4cm;
+}
+body{
+    background-color: #0080ff;
+}
+.first{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 4cm;
+    background-color: #1261A0;
+    margin-top: 4cm;
+    padding: 2cm;
+}
+#football{
+    border-style: double;
+    border-color: blue;
+    border-radius: 4cm;
+}
+h1{
+    font-family:'broadway';
+}
+.second{
+    border-style: solid;
+    border-radius: 4cm;
+    flex-basis: 100%;
+    flex-wrap: wrap;
+    display:flex;
+justify-content: space-evenly;
+padding:4cm;
+margin-top: 3cm;
+}
+.game{
+    flex-basis: 33%;
+margin-top: 1cm;
+margin-left: 0.5cm;
+}
+img{
+    border-style: solid;
+    border-color: black;
+    border-radius: 2cm;
+}
+.created{
+    margin-left:15cm; 
+    margin-top:3cm;
+}
